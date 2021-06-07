@@ -175,14 +175,26 @@
         <div class="col-sm-12">
           <div class="box-shadow-full">
             <div class="row">
-              <div class="col-md-12">
+              <div class="col-md-6">
                 <div class="about-me pt-4 pt-md-0">
                   <div class="title-box-2">
                     <h5 class="title-left">
                       Recent Conference
                     </h5>
                   </div>
-                  <img class="recent-conf" src="./img/unow.jpg" alt="">
+                  <div id="conf-box-container">
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="about-me pt-4 pt-md-0">
+                  <div class="title-box-2">
+                    <h5 class="title-left">
+                      Recent Works
+                    </h5>
+                  </div>
+                  <div id="recent-work-container">
+                  </div>
                 </div>
               </div>
             </div>
@@ -684,7 +696,9 @@
 
   <!-- Template Main Javascript File -->
   <script src="js/main.js"></script>
-
+  <script src="js/test.js"></script>
+  <script src="store/recent-conferences.js"></script>
+  <script src="store/recent-works.js"></script>
 </body>
 
 </html>
