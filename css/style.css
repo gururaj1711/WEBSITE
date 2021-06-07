@@ -1414,3 +1414,9 @@ footer .credits a {
   max-height: 100%;
   padding: 2em 0;
 }
+
+.article-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

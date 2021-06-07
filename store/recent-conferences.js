@@ -35,12 +35,19 @@ function getRecentConferenceCard(title, desc, confImg) {
 }
 
 function getConferenceBlock(title, confImg) {
-  return `<blockquote class="blockquote">
-    <p class="mb-0"><b>${title}</b></p>
-</blockquote>
-<div class="article-content">
-    <img class="conferenceblock-img" src="${confImg}" alt="" srcset="">
-</div>`;
+  return `
+  <div class="col-md-12">
+    <div class="post-box">
+      <div id="conferenceblock">
+        <blockquote class="blockquote">
+          <p class="mb-0"><b>${title}</b></p>
+        </blockquote>
+        <div class="article-content">
+          <img class="conferenceblock-img" src="${confImg}" alt="" srcset="">
+        </div>
+      </div>
+    </div>
+  </div>`;
 }
 
 x = document.getElementById("conf-box-container");

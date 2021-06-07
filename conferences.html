@@ -88,13 +88,7 @@
     <div class="container">
       <div class="row">
         <section id="journal">
-          <div class="col-md-12">
-            <div class="post-box">
-              <div id="conferenceblock">
-                
-              </div>
-            </div>
-          </div>
+          
         </section>
 
         <div class="col-md-12"></div>
@@ -146,7 +140,7 @@
   <script src="store/recent-conferences.js"></script>
 
   <script>
-    y = document.getElementById("conferenceblock");
+    y = document.getElementById("journal");
     y.innerHTML = recentConferences
       .map((rconf) => getConferenceBlock(rconf.title, rconf.confImg))
       .join("");
