@@ -1,11 +1,20 @@
 const recentWorks = [
   {
-    title: "Recent Work 1",
-    desc: "You think water moves fast? You should see ice. It moves like it has a mind. Like it knows it killed the world once and got a taste for murder. After the avalanche, it took us a week to climb out. Now, I don't know exactly when we turned on each other, but I know that seven of us survived the slide... and only five made",
+    title: "Source Code Block to Bring Down Phishing Attacks",
+    desc: "Somraj Chowdhury, H. L. Gururaj, 'Source Code Block to Bring Down Phishing Attacks' , CiiT Journal of Biometrics and Bioinformatics, Vol 10 , No-5 (2018)",
   },
   {
-    title: "Work 2",
-    desc: "You think water moves fast?",
+    title: "Computer Locking Using Bluetooth Device Proximity",
+    desc: "Sumanth Hegde, B. S. Sachin, H. L. Gururaj, “Computer Locking Using Bluetooth Device Proximity”, CiiT Journal of Biometrics and Bioinformatics, Vol 10 , No-5 (2018)",
+  },
+  {
+    title:
+      "A Critical Analysis on Network Layer Attacks in Wireless Sensor Network",
+    desc: "Swathi B.H, Gururaj H.L “A Critical Analysis on Network Layer Attacks in Wireless Sensor Network” International Research Journal of Engineering and Technology (IRJET) e-ISSN: 2395-0056 Volume: 05 Issue: 02 | Feb-2018",
+  },
+  {
+    title: "Portable H2O Quality Monitoring and Cloud Reporting System",
+    desc: "Shraddha Shetty, Shriya Srinivasan, Sindhu S,Veena K P, Gururaj H L “Portable H2O Quality Monitoring and Cloud Reporting System”, International Journal of Scientific Research in Computer Science, Engineering and Information Technology © 2018 IJSRCSEIT | Volume 4 | Issue 6 | ISSN : 2456-3307",
   },
 ];
 
@@ -18,5 +27,6 @@ function getRecentWorkList(title, desc) {
 
 y = document.getElementById("recent-work-container");
 y.innerHTML = recentWorks
-  .filter((item, idx) => idx < 5)
-  .map((rwork) => getRecentWorkList(rwork.title, rwork.desc));
+  .filter((item, idx) => idx < 4)
+  .map((rwork) => getRecentWorkList(rwork.title, rwork.desc))
+  .join("");
