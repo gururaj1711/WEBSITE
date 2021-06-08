@@ -1,7 +1,7 @@
 const recentConferences = [
   {
     title: "Machine Learning and its Applications in Food Engineering",
-    desc: "Update NOW 2020 Conference",
+    desc: "Update-2020, Prague, Europe",
     confImg: "./img/unow.jpg",
   },
  
