@@ -1348,12 +1348,14 @@ footer .credits a {
   min-height: 150px;
 }
 
-/* @media (max-width: 768px) {
+@media (max-width: 768px) {
   .recent-conf {
-    width: 50%;
-    height: 50%;
+    /* width: 50%;
+    height: 50%; */
+    /* max-width: 50%; */
+    min-width: 50%;
   }
-} */
+}
 
 .conf-box {
   margin-top: 1em;
