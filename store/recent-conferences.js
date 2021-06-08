@@ -8,13 +8,13 @@ const recentConferences = [
     title: "ACM DSP Talk",
     desc: "NIT Surat-2020",
     confImg:
-      "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLcd-OeOivwg&psig=AOvVaw26OsShtJ2iXf3wExpBkFh9&ust=1623252006777000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCm0JqsiPECFQAAAAAdAAAAABAD",
+      "https://drive.google.com/file/d/10r2HHKvrhljUFHg6hLK0NpfN79TsdQKt/view?usp=sharing",
   },
   {
     title: "ACM DSP Talk",
     desc: "SAGE University, Bhopal",
     confImg:
-      "https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.linkedin.com%2Fin%2Fshashank-m-m-36957a17b&psig=AOvVaw34ut_UA8UK_gRqdPNqR7b6&ust=1623252293146000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDbkdisiPECFQAAAAAdAAAAABAD",
+      "https://drive.google.com/file/d/1AE68ExZC0ac2rRs-qXcQkBw-8eeshhde/view?usp=sharing",
   },
  ];
 
