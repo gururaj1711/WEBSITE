@@ -20,13 +20,14 @@ const recentWorks = [
 
 function getRecentWorkList(title, desc) {
   return `<div class="work-list">
-              <h4>${title}</h4>
+              <h6>${title}</h6>
               <p>${desc}</p>
             </div>`;
 }
 
 y = document.getElementById("recent-work-container");
 y.innerHTML = recentWorks
+  .reverse()
   .filter((item, idx) => idx < 4)
   .map((rwork) => getRecentWorkList(rwork.title, rwork.desc))
   .join("");

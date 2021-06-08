@@ -1377,12 +1377,13 @@ footer .credits a {
   margin-left: 0.5em;
 }
 
-.work-list > h4::before {
+.work-list > h6::before {
   content: "•";
   padding-right: 5px;
 }
 
 .work-list > p {
+  font-size: 0.9em;
   margin-left: 0.6em;
 }
 

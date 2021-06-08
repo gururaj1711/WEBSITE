@@ -58,6 +58,7 @@ function getConferenceBlock(title, confImg) {
 
 x = document.getElementById("conf-box-container");
 x.innerHTML = recentConferences
+  .reverse()
   .filter((item, idx) => idx < 4)
   .map((rconf) =>
     getRecentConferenceCard(rconf.title, rconf.desc, rconf.confImg)
