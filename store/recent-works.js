@@ -25,9 +25,12 @@ const recentWorks = [
     desc: "HL Gururaj, BL Abhilash, Vijayalakshmi Akella, Sam Goundar, “IGI Global” ",
   },
   {
-    title:
-      "Peer-to-Peer Distributed Storage Using InterPlanetary File System",
+    title: "Peer-to-Peer Distributed Storage Using InterPlanetary File System",
     desc: "HL Gururaj, A Manoj Athreya, Ashwin A Kumar, SM Nagarajath, V Ravi Kumar, DN Sachin, KR Rakesh “Springer, Singapore” ",
+  },
+  {
+    title: "Convergence of Internet of Things and Blockchain Technologies",
+    desc: "Gururaj, H.L., Ravi Kumar, V., Goundar, S., Elngar, A.A., Swathi, B.H. (Eds.) “EAI/Springer Innovations in Communication and Computing” ",
   },
 ];
 
