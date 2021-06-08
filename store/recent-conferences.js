@@ -4,14 +4,19 @@ const recentConferences = [
     desc: "Update-2020, Prague, Europe",
     confImg: "./img/unow.jpg",
   },
- 
   {
-    title: "update",
-    desc: "lorem ipsum dolor sit",
+    title: "ACM DSP Talk",
+    desc: "NIT Surat-2020",
     confImg:
-      "https://images.unsplash.com/photo-1623009070533-593d7b6fc383?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw4fHx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLcd-OeOivwg&psig=AOvVaw26OsShtJ2iXf3wExpBkFh9&ust=1623252006777000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCm0JqsiPECFQAAAAAdAAAAABAD",
   },
-];
+  {
+    title: "ACM DSP Talk",
+    desc: "SAGE University, Bhopal",
+    confImg:
+      "https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.linkedin.com%2Fin%2Fshashank-m-m-36957a17b&psig=AOvVaw34ut_UA8UK_gRqdPNqR7b6&ust=1623252293146000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDbkdisiPECFQAAAAAdAAAAABAD",
+  },
+ ];
 
 function getRecentConferenceCard(title, desc, confImg) {
   return `<div class="conf-box">
