@@ -8,7 +8,7 @@ const recentConferences = [
     title: "ACM DSP Talk",
     desc: "NIT Surat-2020",
     confImg:
-      "https://drive.google.com/file/d/10r2HHKvrhljUFHg6hLK0NpfN79TsdQKt/view?usp=sharing",
+      "./img/SAGE.jpg",
   },
   {
     title: "ACM DSP Talk",
