@@ -14,7 +14,7 @@ const recentConferences = [
     title: "ACM DSP Talk",
     desc: "SAGE University, Bhopal",
     confImg:
-      "https://drive.google.com/file/d/1AE68ExZC0ac2rRs-qXcQkBw-8eeshhde/view?usp=sharing",
+      "./img/NIT%20Surat%20(1).jpg",
   },
  ];
 
