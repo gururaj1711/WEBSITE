@@ -27,7 +27,7 @@ const recentWorks = [
   {
     title:
       "Peer-to-Peer Distributed Storage Using InterPlanetary File System",
-    desc: "HL Gururaj, A Manoj Athreya, Ashwin A Kumar, SM Nagarajath, V Ravi Kumar, DN Sachin, KR Rakesh “Springer, Singapore” ,
+    desc: "HL Gururaj, A Manoj Athreya, Ashwin A Kumar, SM Nagarajath, V Ravi Kumar, DN Sachin, KR Rakesh “Springer, Singapore” ",
   },
 ];
 
