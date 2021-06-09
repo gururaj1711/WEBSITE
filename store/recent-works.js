@@ -1,3 +1,5 @@
+import { getRecentWorkList } from "../js/getComponents.js";
+
 const recentWorks = [
   {
     title: "Source Code Block to Bring Down Phishing Attacks",
@@ -18,14 +20,7 @@ const recentWorks = [
   },
 ];
 
-function getRecentWorkList(title, desc) {
-  return `<div class="work-list">
-              <h6>${title}</h6>
-              <p>${desc}</p>
-            </div>`;
-}
-
-y = document.getElementById("recent-work-container");
+const y = document.getElementById("recent-work-container");
 y.innerHTML = recentWorks
   .reverse()
   .filter((item, idx) => idx < 4)
