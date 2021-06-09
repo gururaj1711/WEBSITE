@@ -1,12 +1,11 @@
-import { getRecentWorkList } from "../js/getComponents.js";
-
-const recentWorks = [
+export const recentWorks = [
   {
     title: "Analysis of Drug Classification using Mechanism of Action",
     desc: "HL Gururaj, GR Puneeth, SR Mahesh, H Adithya, Sharma J Bhargava, HA Chaya Kumari, Lin Hong, Journal of Physics: Conference Series",
   },
   {
-    title: "An Efficient Approach For COVID-19 Using Machine Learning Techniques",
+    title:
+      "An Efficient Approach For COVID-19 Using Machine Learning Techniques",
     desc: "HL Gururaj, Anusha P Dongade, Prathiksha S Murthy, Sunil Kumar BR, Mudassir Azeez Khan, Hong Lin, “Available at SSRN 3833700” ",
   },
   {
@@ -15,11 +14,13 @@ const recentWorks = [
     desc: "HL Gururaj, K Paramesha, Om Prakash Jena, “Machine Learning for Healthcare Applications” John Wiley & Sons, Inc.",
   },
   {
-    title: "Big Data and Big Data Analytics: A Review of Tools and its Application",
+    title:
+      "Big Data and Big Data Analytics: A Review of Tools and its Application",
     desc: "HL Gururaj, Sam Goundar, Akashdeep Bhardwaj, Shavindar Singh, Mandeep Singh, “IGI Global” ",
   },
   {
-    title: "Industrial Internet of Things 4.0: Foundations, Challenges, and Applications–A Review",
+    title:
+      "Industrial Internet of Things 4.0: Foundations, Challenges, and Applications–A Review",
     desc: "HL Gururaj, DB Vishwas, M Gowtham, Sam Goundar, IGI Global",
   },
   {
@@ -35,10 +36,3 @@ const recentWorks = [
     desc: "Gururaj, H.L., Ravi Kumar, V., Goundar, S., Elngar, A.A., Swathi, B.H. (Eds.) “EAI/Springer Innovations in Communication and Computing” ",
   },
 ];
-
-const y = document.getElementById("recent-work-container");
-y.innerHTML = recentWorks
-  .reverse()
-  .filter((item, idx) => idx < 4)
-  .map((rwork) => getRecentWorkList(rwork.title, rwork.desc))
-  .join("");

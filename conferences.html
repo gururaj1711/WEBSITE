@@ -87,14 +87,10 @@
   <section class="blog-wrapper sect-pt4" id="blog">
     <div class="container">
       <div class="row">
-        <section id="journal">
-          
+        <section id="journal">    
         </section>
-
         <div class="col-md-12"></div>
-
       </div>
-
     </div>
     </div>
     </div>
@@ -137,15 +133,7 @@
 
   <!-- Template Main Javascript File -->
   <script src="js/main.js"></script>
-  <script src="store/recent-conferences.js"></script>
-
-  <script>
-    y = document.getElementById("journal");
-    y.innerHTML = recentConferences
-      .map((rconf) => getConferenceBlock(rconf.title, rconf.confImg))
-      .join("");
-
-  </script>
+  <script type="module" src="js/lib/recent-conferences.js"></script>
 </body>
 
 </html>
