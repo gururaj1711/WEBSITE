@@ -1,6 +1,6 @@
-const getRecentConferenceCard = (title, desc, confImg) => {
+const getCardWithThumb = (title, desc, img) => {
   return `<div class="conf-box">
-                    <img class="recent-conf" src="${confImg}" alt="">
+                    <img class="recent-conf" src="${img}" alt="">
                     <div class="conf-box-details">
                       <h4 class="conf-box-title">${title}</h4>
                       <p class="conf-box-desc">${desc}</p>
@@ -8,7 +8,7 @@ const getRecentConferenceCard = (title, desc, confImg) => {
                   </div>`;
 };
 
-const getConferenceBlock = (title, confImg) => {
+const getBlockWithoutImage = (title, desc) => {
   return `
       <div class="col-md-12">
         <div class="post-box">
@@ -16,8 +16,23 @@ const getConferenceBlock = (title, confImg) => {
             <blockquote class="blockquote">
               <p class="mb-0"><b>${title}</b></p>
             </blockquote>
+            <p class="conf-box-desc">${desc}</p>
+          </div>
+        </div>
+      </div>`;
+};
+
+const getBlockWithImage = (title, desc, img) => {
+  return `
+      <div class="col-md-12">
+        <div class="post-box">
+          <div id="conferenceblock">
+            <blockquote class="blockquote">
+              <p class="mb-0"><b>${title}</b></p>
+              <p class="conf-box-desc">${desc}</p>
+            </blockquote>
             <div class="article-content">
-              <img class="conferenceblock-img" src="${confImg}" alt="" srcset="">
+              <img class="conferenceblock-img" src="${img}" alt="" srcset="">
             </div>
           </div>
         </div>
@@ -25,10 +40,15 @@ const getConferenceBlock = (title, confImg) => {
 };
 
 const getRecentWorkList = (title, desc) => {
-  return `<div class="work-list">
-                <h6>${title}</h6>
-                <p>${desc}</p>
-              </div>`;
+  return `<div class="work-list" style="margin-top: 1em; margin-bottom: 1em;">
+              <h6>${title}</h6>
+              <p>${desc}</p>
+            </div>`;
 };
 
-export { getConferenceBlock, getRecentConferenceCard, getRecentWorkList };
+export {
+  getBlockWithImage,
+  getCardWithThumb,
+  getRecentWorkList,
+  getBlockWithoutImage,
+};
