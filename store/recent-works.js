@@ -2,21 +2,37 @@ import { getRecentWorkList } from "../js/getComponents.js";
 
 const recentWorks = [
   {
-    title: "Source Code Block to Bring Down Phishing Attacks",
-    desc: "Somraj Chowdhury, H. L. Gururaj, 'Source Code Block to Bring Down Phishing Attacks' , CiiT Journal of Biometrics and Bioinformatics, Vol 10 , No-5 (2018)",
+    title: "Analysis of Drug Classification using Mechanism of Action",
+    desc: "HL Gururaj, GR Puneeth, SR Mahesh, H Adithya, Sharma J Bhargava, HA Chaya Kumari, Lin Hong, Journal of Physics: Conference Series",
   },
   {
-    title: "Computer Locking Using Bluetooth Device Proximity",
-    desc: "Sumanth Hegde, B. S. Sachin, H. L. Gururaj, “Computer Locking Using Bluetooth Device Proximity”, CiiT Journal of Biometrics and Bioinformatics, Vol 10 , No-5 (2018)",
+    title: "An Efficient Approach For COVID-19 Using Machine Learning Techniques",
+    desc: "HL Gururaj, Anusha P Dongade, Prathiksha S Murthy, Sunil Kumar BR, Mudassir Azeez Khan, Hong Lin, “Available at SSRN 3833700” ",
   },
   {
     title:
-      "A Critical Analysis on Network Layer Attacks in Wireless Sensor Network",
-    desc: "Swathi B.H, Gururaj H.L “A Critical Analysis on Network Layer Attacks in Wireless Sensor Network” International Research Journal of Engineering and Technology (IRJET) e-ISSN: 2395-0056 Volume: 05 Issue: 02 | Feb-2018",
+      "Applications of Machine Learning in Biomedical Text Processing and Food Industry",
+    desc: "HL Gururaj, K Paramesha, Om Prakash Jena, “Machine Learning for Healthcare Applications” John Wiley & Sons, Inc.",
   },
   {
-    title: "Portable H2O Quality Monitoring and Cloud Reporting System",
-    desc: "Shraddha Shetty, Shriya Srinivasan, Sindhu S,Veena K P, Gururaj H L “Portable H2O Quality Monitoring and Cloud Reporting System”, International Journal of Scientific Research in Computer Science, Engineering and Information Technology © 2018 IJSRCSEIT | Volume 4 | Issue 6 | ISSN : 2456-3307",
+    title: "Big Data and Big Data Analytics: A Review of Tools and its Application",
+    desc: "HL Gururaj, Sam Goundar, Akashdeep Bhardwaj, Shavindar Singh, Mandeep Singh, “IGI Global” ",
+  },
+  {
+    title: "Industrial Internet of Things 4.0: Foundations, Challenges, and Applications–A Review",
+    desc: "HL Gururaj, DB Vishwas, M Gowtham, Sam Goundar, IGI Global",
+  },
+  {
+    title: "Internet of Things for High Performance Net Zero Energy Buildings",
+    desc: "HL Gururaj, BL Abhilash, Vijayalakshmi Akella, Sam Goundar, “IGI Global” ",
+  },
+  {
+    title: "Peer-to-Peer Distributed Storage Using InterPlanetary File System",
+    desc: "HL Gururaj, A Manoj Athreya, Ashwin A Kumar, SM Nagarajath, V Ravi Kumar, DN Sachin, KR Rakesh “Springer, Singapore” ",
+  },
+  {
+    title: "Convergence of Internet of Things and Blockchain Technologies",
+    desc: "Gururaj, H.L., Ravi Kumar, V., Goundar, S., Elngar, A.A., Swathi, B.H. (Eds.) “EAI/Springer Innovations in Communication and Computing” ",
   },
 ];
 

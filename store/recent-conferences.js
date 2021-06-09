@@ -6,34 +6,22 @@ import {
 const recentConferences = [
   {
     title: "Machine Learning and its Applications in Food Engineering",
-    desc: "Update NOW 2020 Conference",
+    desc: "Update-2020, Prague, Europe",
     confImg: "./img/unow.jpg",
   },
   {
-    title: "Smart Flood Alert System with Pathogen Detection",
-    desc: "the work",
+    title: "ACM DSP Talk",
+    desc: "NIT Surat-2020",
     confImg:
-      "https://images.unsplash.com/photo-1593642532871-8b12e02d091c?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80",
+      "./img/SAGE.jpg",
   },
   {
-    title: "Title 3",
-    desc: "work description of the ",
+    title: "ACM DSP Talk",
+    desc: "SAGE University, Bhopal",
     confImg:
-      "https://images.unsplash.com/photo-1623038896180-d81dd785a60f?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw1fHx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "./img/NIT%20Surat%20(1).jpg",
   },
-  {
-    title: "Title 4",
-    desc: "lorem ipsum dolor sit",
-    confImg:
-      "https://images.unsplash.com/photo-1623009070533-593d7b6fc383?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw4fHx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-  },
-  {
-    title: "update",
-    desc: "lorem ipsum dolor sit",
-    confImg:
-      "https://images.unsplash.com/photo-1623009070533-593d7b6fc383?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw4fHx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-  },
-];
+ ];
 
 // const getRecentConferenceCard = (title, desc, confImg) => {
 //   return `<div class="conf-box">
