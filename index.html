@@ -57,9 +57,12 @@
           <li class="nav-item">
             <a class="nav-link js-scroll" href="#service">Research Interests</a>
           </li>
-          <!-- <li class="nav-item">
-            <a class="nav-link js-scroll" href="#blog">Work</a>
-          </li> -->
+          <li class="nav-item">
+            <a class="nav-link js-scroll" href="/work.html">Work</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll" href="/conferences.html">Conferences</a>
+          </li>
           <li class="nav-item">
             <a class="nav-link js-scroll" href="#gallery">Gallery</a>
           </li>
@@ -175,14 +178,32 @@
         <div class="col-sm-12">
           <div class="box-shadow-full">
             <div class="row">
-              <div class="col-md-12">
+              <div class="col-md-6">
                 <div class="about-me pt-4 pt-md-0">
                   <div class="title-box-2">
                     <h5 class="title-left">
                       Recent Conference
                     </h5>
                   </div>
-                  <img class="recent-conf" src="./img/unow.jpg" alt="">
+                  <div id="conf-box-container">
+                  </div>
+                  <div class="viewAllBtn">
+                    <a href="./conferences.html">View recent conferences &rarr;</a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="about-me pt-4 pt-md-0">
+                  <div class="title-box-2">
+                    <h5 class="title-left">
+                      Recent Works
+                    </h5>
+                  </div>
+                  <div id="recent-work-container">
+                  </div>
+                  <div class="viewAllBtn">
+                    <a href="./work.html">View works &rarr;</a>
+                  </div>
                 </div>
               </div>
             </div>
@@ -684,7 +705,8 @@
 
   <!-- Template Main Javascript File -->
   <script src="js/main.js"></script>
-
+  <script type="module" src="js/lib/recent-conferences.js"></script>
+  <script type="module" src="js/lib/recent-works.js"></script>
 </body>
 
 </html>
