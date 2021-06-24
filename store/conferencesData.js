@@ -7,12 +7,12 @@ export const recentConferences = [
   {
     title: "ACM DSP Talk",
     desc: "NIT Surat-2020",
-    confImg: "./img/unow.jpg",
+    confImg:"./img/NIT%20Surat%20(1).jpg" ,
   },
   {
     title: "ACM DSP Talk",
     desc: "SAGE University, Bhopal",
-    confImg: "./img/NIT%20Surat%20(1).jpg",
+    confImg:"./img/SAGE.jpg",
   },
   {
     title: "ACM DSP Talk",
