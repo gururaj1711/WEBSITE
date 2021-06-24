@@ -17,7 +17,7 @@ export const recentConferences = [
   {
     title: "ACM DSP Talk",
     desc: "UEM-Jaipur",
-    confImg: "./img/UEM-Jaipur.jpeg,
+    confImg: "./img/UEM-Jaipur.jpeg",
   },
   {
     title: "Expert-Talk",
