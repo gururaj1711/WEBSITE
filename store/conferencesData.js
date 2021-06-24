@@ -2,7 +2,7 @@ export const recentConferences = [
   {
     title: "Machine Learning and its Applications in Food Engineering",
     desc: "Update-2020, Prague, Europe",
-    confImg: "./img/unow.jpg",
+    confImg: "./img/SAGE.jpg",
   },
   {
     title: "ACM DSP Talk",
@@ -13,5 +13,20 @@ export const recentConferences = [
     title: "ACM DSP Talk",
     desc: "SAGE University, Bhopal",
     confImg:"./img/SAGE.jpg",
+  },
+  {
+    title: "ACM DSP Talk",
+    desc: "UEM-Jaipur",
+    confImg: "./img/UEM-Jaipur.jpeg",
+  },
+  {
+    title: "Expert-Talk",
+    desc: "Sri Narayana Guru, Tamil Nadu",
+    confImg: "./img/GURU-TN.jpeg",
+  },
+  {
+    title: "IndiaClouds",
+    desc: "First Pitching Event: Episode #1",
+    confImg: "./img/Indiaclouds.jpeg",
   },
 ];
