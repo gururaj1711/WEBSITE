@@ -20,7 +20,7 @@ export const recentConferences = [
     confImg: "./img/UEM-Jaipur.jpeg,
   },
   {
-    title: "Expert Talk",
+    title: "Expert-Talk",
     desc: "Sri Narayana Guru, Tamil Nadu",
     confImg: "./img/GURU-TN.jpeg",
   },
