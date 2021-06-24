@@ -2,12 +2,12 @@ export const recentConferences = [
   {
     title: "Machine Learning and its Applications in Food Engineering",
     desc: "Update-2020, Prague, Europe",
-    confImg: "./img/unow.jpg",
+    confImg: "./img/SAGE.jpg",
   },
   {
     title: "ACM DSP Talk",
     desc: "NIT Surat-2020",
-    confImg: "./img/SAGE.jpg",
+    confImg: "./img/unow.jpg",
   },
   {
     title: "ACM DSP Talk",
