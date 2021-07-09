@@ -27,6 +27,6 @@ export const recentConferences = [
   {
     title: "FDP-Resource Person",
     desc: "Auro University, Gujarath, India",
-    confImg: "./img/AURO.jpeg",
+    confImg: "./img/AURA.jpeg",
   },
 ];
