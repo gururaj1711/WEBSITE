@@ -25,8 +25,8 @@ export const recentConferences = [
     confImg: "./img/GURU-TN.jpeg",
   },
   {
-    title: "IndiaClouds",
-    desc: "First Pitching Event: Episode #1",
-    confImg: "./img/Indiaclouds.jpeg",
+    title: "FDP-Resource Person",
+    desc: "Auro University, Gujarath, India",
+    confImg: "./img/AURO.jpeg",
   },
 ];
