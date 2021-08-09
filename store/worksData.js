@@ -34,6 +34,7 @@ export const recentWorks = [
   {
     title: "Convergence of Internet of Things and Blockchain Technologies",
     desc: "Gururaj, H.L., Ravi Kumar, V., Goundar, S., Elngar, A.A., Swathi, B.H. (Eds.) “EAI/Springer Innovations in Communication and Computing” ",
+    img: "./img/Springer.jpeg",
   },
   // {
   //   title: "Work with image",
