@@ -36,6 +36,11 @@ export const recentWorks = [
     desc: "Gururaj, H.L., Ravi Kumar, V., Goundar, S., Elngar, A.A., Swathi, B.H. (Eds.) “EAI/Springer Innovations in Communication and Computing” ",
     img: "./img/Springer.jpeg",
   },
+   {
+    title: "Call for Book CHapters",
+    desc: "Submission Link:https://www.igi-global.com/publish/call-for-papers/call-details/5526",
+    img: "./img/CFB.png",
+  },
   // {
   //   title: "Work with image",
   //   desc: "lorem description",
