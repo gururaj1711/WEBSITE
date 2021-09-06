@@ -32,8 +32,8 @@ export const recentWorks = [
     desc: "HL Gururaj, A Manoj Athreya, Ashwin A Kumar, SM Nagarajath, V Ravi Kumar, DN Sachin, KR Rakesh “Springer, Singapore” ",
   },
   {
-    title: "Convergence of Internet of Things and Blockchain Technologies",
-    desc: "Gururaj, H.L., Ravi Kumar, V., Goundar, S., Elngar, A.A., Swathi, B.H. (Eds.) “EAI/Springer Innovations in Communication and Computing” ",
+    title: "Convergence of Internet of Things and Blockchain Technologies Editors: Gururaj, H.L et. al.,",
+    desc: "https://www.springer.com/gp/book/9783030762155-EAI/Springer Innovations in Communication and Computing ",
     img: "./img/Springer.jpeg",
   },
    {
