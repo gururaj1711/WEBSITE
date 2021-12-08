@@ -29,4 +29,9 @@ export const recentConferences = [
     desc: "Auro University, Gujarath, India",
     confImg: "./img/AURA.jpeg",
   },
+  {
+    title: "Distinguished Speaker Program",
+    desc: "UEM, Jaipur, India",
+    confImg: "./img/UEM-Jaipur.jpeg",
+  },
 ];
