@@ -34,4 +34,4 @@ export const recentConferences = [
     desc: "UEM, Jaipur, India",
     confImg: "./img/UEM-Jaipur.jpeg",
   },
-]
+];
