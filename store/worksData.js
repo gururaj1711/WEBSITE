@@ -41,6 +41,11 @@ export const recentWorks = [
     desc: "Submission Link:https://www.igi-global.com/publish/call-for-papers/call-details/5526",
     img: "./img/CFB.png",
   },
+  {
+    title: "Call for Book CHapters",
+    desc: "IAP Edited Book on Cyber Security",
+    img: "./img/IAP-Book.jpeg",
+  },
   // {
   //   title: "Work with image",
   //   desc: "lorem description",
