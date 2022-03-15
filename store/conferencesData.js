@@ -39,4 +39,9 @@ export const recentConferences = [
     desc: "ICMLT-2022,Italy",
     confImg: "./img/Session-chair.jpeg",
   },
+   {
+    title: "BLOCKCHAIN COURSE",
+    desc: "Content and delivery of Blockchain course at Maryland University, Sweden",
+    confImg: "./img/Course%20Content.jpeg",
+  },
 ];
