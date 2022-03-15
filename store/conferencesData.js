@@ -34,4 +34,9 @@ export const recentConferences = [
     desc: "UEM, Jaipur, India",
     confImg: "./img/UEM-Jaipur.jpeg",
   },
+   {
+    title: "SESSION-CHAIR",
+    desc: "ICMLT-2022,Italy",
+    confImg: "./img/Session-chair.jpeg",
+  },
 ];
