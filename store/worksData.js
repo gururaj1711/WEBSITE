@@ -46,7 +46,12 @@ export const recentWorks = [
     desc: "IAP Edited Book on Cyber Security",
     img: "./img/IAP-Book.jpeg",
   },
-   // {
+  {
+    title: "Call for Papers",
+    desc: "Fourth International Conference AICDMB-2023",
+    img: "./img/HP.PNG",
+  },
+     // {
   //   title: "Work with image",
   //   desc: "lorem description",
   //   img: "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?ixid=MnwxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwxfHx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
