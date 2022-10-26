@@ -58,7 +58,7 @@ export const recentWorks = [
   },
    {
     title: "All India Radio AIR 100.6",
-    desc: "Current Tresnds in Computer Science",
+    desc: "Current Tresnds in Computer Science-(Visit-https://www.youtube.com/watch?v=OtZE2LRccok)",
     img: "./img/AIR.jpeg",
   },
   // {
