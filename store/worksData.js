@@ -59,7 +59,7 @@ export const recentWorks = [
    {
     title: "All India Radio AIR 100.6",
     desc: "Current Tresnds in Computer Science",
-    img: "./img/AIR.mp4",
+    img: "./img/AIR.jpeg",
   },
   // {
   //   title: "Work with image",
