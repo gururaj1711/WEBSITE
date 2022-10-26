@@ -56,6 +56,11 @@ export const recentWorks = [
     desc: "Taylor & Francis (CRC Press) Edited Book Disease Health Prediction",
     img: "./img/DS.jpeg",
   },
+   {
+    title: "All India Radio AIR 100.6",
+    desc: "Current Tresnds in Computer Science",
+    img: "./img/AIR.mp4",
+  },
   // {
   //   title: "Work with image",
   //   desc: "lorem description",
