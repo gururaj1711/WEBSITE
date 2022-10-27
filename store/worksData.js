@@ -61,6 +61,11 @@ export const recentWorks = [
     desc: "Current Tresnds in Computer Science-(Visit-https://www.youtube.com/watch?v=OtZE2LRccok)",
     img: "./img/AIR.jpeg",
   },
+   {
+    title: "Call for Papers",
+    desc: "Special Issue on Data Infrastructures-MDPI, IF=2.98, Q2 Journal",
+    img: "./img/MDPI.png",
+  },
   // {
   //   title: "Work with image",
   //   desc: "lorem description",
