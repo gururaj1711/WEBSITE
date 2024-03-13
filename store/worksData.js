@@ -66,6 +66,11 @@ export const recentWorks = [
     desc: "Special Issue on Data Infrastructures-MDPI, IF=2.98, Q2 Journal",
     img: "./img/MDPI.png",
   },
+  {
+    title: "Call for Book Proposals",
+    desc: "AI for Healthcare Applications",
+    img: "./img/MDPI.png",
+  },
   // {
   //   title: "Work with image",
   //   desc: "lorem description",
