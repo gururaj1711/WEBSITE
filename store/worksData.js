@@ -69,7 +69,7 @@ export const recentWorks = [
   {
     title: "Call for Book Proposals",
     desc: "AI for Healthcare Applications",
-    img: "./img/MDPI.png",
+    img: "./img/WhatsApp Image 2024-03-12 at 6.16.41 PM.jpeg",
   },
   // {
   //   title: "Work with image",
