@@ -153,5 +153,30 @@ export const recentConferences = [
     title: "Keynote Speaker",
     desc: "ESP Session, PCCOE, Pune",
     confImg: "./img/PCCOE.jpeg"
+  },
+  {
+    title: "Panelist",
+    desc: "Panel Discussion on Careers in Industry/Research, MIT Bengaluru",
+    confImg: "./img/ACMIndustryDay.jpeg"
+  },
+  {
+    title: "Guest Speaker",
+    desc: "The Rising Demand for Cybersecurity Experts, Educafe",
+    confImg: "./img/Educafe.jpeg"
+  },
+  {
+    title: "Chief Guest",
+    desc: "Inaugural Ceremony of Technical Fest, Thyagaraja College of Engineering and Technology, Madurai",
+    confImg: "./img/ThyagarajCE.jpeg"
+  },
+  {
+    title: "Speaker",
+    desc: "HackNite 2025, MIT Bengaluru",
+    confImg: "./img/HackNite.jpeg"
+  },
+  {
+    title: "Program Chair",
+    desc: "International Conference on Data Science & Exploration in Artificial Intelligence (CODE-AI 2025)",
+    confImg: "./img/codeai2025.jpeg"
   }
 ];
