@@ -188,6 +188,11 @@ export const recentWorks = [
     title: " Call for Book Chapters",
     desc: "Reliability in Cyber-Physical systems: The human factor perscpective ",
     img: "./img/cybphy.jpeg",
+  },
+  {
+    title: "Call for Book Chapters",
+    desc: "Quantum Machine Learning in Image Processing: Unveiling the Future of Visual Data Analysis",
+    img: "./img/QuantumML.jpg",
   }
   // {
   //   title: "Work with image",

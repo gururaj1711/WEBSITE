@@ -178,5 +178,16 @@ export const recentConferences = [
     title: "Program Chair",
     desc: "International Conference on Data Science & Exploration in Artificial Intelligence (CODE-AI 2025)",
     confImg: "./img/codeai2025.jpeg"
-  }
+  },
+  {
+    title: "Chief Guest",
+    desc: "Inaugural Ceremony of ACM Student Chapter, Maharaja Institute of Technology, Thandavapura",
+    confImg: "./img/MITT.png"
+  },
+  {
+    title: "Chief Guest & Speaker",
+    desc: "Faculty Development Program on 'Artificial Intelligence and Emerging Trends in Healthcare and Agro Business Segment', Neotia University, Kolkata",
+    confImg: "./img/NeotiaUni.jpg"
+  },
+  
 ];
