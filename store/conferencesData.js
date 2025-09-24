@@ -189,5 +189,29 @@ export const recentConferences = [
     desc: "Faculty Development Program on 'Artificial Intelligence and Emerging Trends in Healthcare and Agro Business Segment', Neotia University, Kolkata",
     confImg: "./img/NeotiaUni.jpg"
   },
-  
+  {
+    title: "Chief Guest",
+    desc: "Youth for Seva, Mysuru Chapter’s SEVA SAMBRAMA-2025",
+    confImg: "./img/YouthSeva.jpeg"
+  },
+  {
+    title: "External Academic Auditor",
+    desc: "Reva University, Bengaluru",
+    confImg: "./img/EAA_Reva.jpeg"
+  },
+  {
+    title: "Eminent Engineer Award",
+    desc: "Institution of Engineers (India), IEI, Mysuru on Engineering Day",
+    confImg: "./img/IEI.jpeg"
+  },
+  {
+    title: "ACM India Eminent Speaker",
+    desc: "Applications of AI and Generative AI in Cyber Security, Chitkara University ACM Student Chapter",
+    confImg: "./img/ACMChitkara.jpeg"
+  },
+  {
+    title: "ACM India Eminent Speaker",
+    desc: "Applications of AI and Generative AI in Cyber Security, CCET Chandigarh ACM Student Chapter",
+    confImg: "./img/ACM_CCET.jpeg"
+  }
 ];
