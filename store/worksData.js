@@ -193,6 +193,16 @@ export const recentWorks = [
     title: "Call for Book Chapters",
     desc: "Quantum Machine Learning in Image Processing: Unveiling the Future of Visual Data Analysis",
     img: "./img/QuantumML.jpg",
+  },
+  {
+    title: "Best Paper Award: Computational Intelligence-Driven Texture Feature Fusion for Automated Classification of Akatomachi, Koshihikari, and Yangdao Rice Seeds",
+    desc:"6th International Conference on Frontiers in Computing and Systems (FCS 2025), organized by Warsaw University",
+    img: "./img/Comsys.jpg",
+  },
+  {
+    title: "Call for Posters || Turinger'26",
+    desc: "3rd Indian Symposium on Cybersecurity and Data Science (ISCADS 2026)",
+    img: "./img/ISCADS.jpg"
   }
   // {
   //   title: "Work with image",

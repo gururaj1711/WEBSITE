@@ -213,5 +213,40 @@ export const recentConferences = [
     title: "ACM India Eminent Speaker",
     desc: "Applications of AI and Generative AI in Cyber Security, CCET Chandigarh ACM Student Chapter",
     confImg: "./img/ACM_CCET.jpeg"
-  }
+  },
+  {
+    title: "Chief Guest & Esteemed Speaker",
+    desc: "Talk on Cybersecurity,RV&JC ACM Student Chapter",
+    confImg: "./img/RVJC.jpg"
+  },
+  {
+    title: "Chief Guest & Esteemed Speaker",
+    desc: "Talk on Cybersecurity, KITS Guntur, Andhra Pradesh",
+    confImg: "./img/KITS.jpg"
+  },
+  {
+    title: "Resource Person",
+    desc: "Transforming Technical Education and Research Through Generative AI,  AICTE Training and Learning (ATAL)",
+    confImg: "./img/FDPMCE.jpg"
+  },
+  {
+    title: "Session Chair",
+    desc: "Elsevier International Conference on Machine Learning and Data Engineering (ICMLDE 4.0)",
+    confImg: "./img/ICMLDE4.jpg"
+  },
+  {
+    title: "Guest of Honour",
+    desc: "Project Decrypt ’25 GDG NMIT Bengaluru",
+    confImg: "./img/GDG.jpg"
+  },
+  {
+    title: "Guest of Honour & Keynote Speaker",
+    desc: "Five-Day Faculty Development Program (FDP) organized by Sri Venkateshwara College of Engineering, Bengaluru.",
+    confImg: "./img/fdpsvce.jpg"
+  },
+  {
+    title: "Session Chair",
+    desc: "Impact 2025, Birla Institute of Technology, Mesra Patna Campus",
+    confImg: "./img/BITMesra.png"
+  },
 ];
